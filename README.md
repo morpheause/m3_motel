@@ -1,2 +1,2 @@
 # m3_motel
-simple motel script
+simple motel script - cloudfivem.com
